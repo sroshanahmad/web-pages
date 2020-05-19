@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 	<meta charset="utf-8">
@@ -10,7 +9,7 @@
 <body>
 <h1>MY WEB APPLICATIONS & DESIGNS</h1>
   <ol>
-    <li><a href="https://sroshanahmad.github.io/web-pages/healthpanel/"><span style="color:#2ecc71;">Health Panel</span></a></li>
+    <li><a href="https://sroshanahmad.github.io/web-pages/healthpanel/"><span>Health Panel</span></a></li>
   </ol>
 </body>
 </html>

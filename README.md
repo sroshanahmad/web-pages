@@ -1,7 +1,14 @@
 # RESPONSIVE WEB DESIGN PROJECTS 
 
 ## ONLY HTML & CSS
-1. [Health Panel](https://sroshanahmad.github.io/web-pages/healthpanel/)
+[Health Panel](https://sroshanahmad.github.io/web-pages/healthpanel/)
 
+[Technical Documentation Site](https://codepen.io/sroshanahmad/full/wvMbPKR)
+
+[Tribute page](https://codepen.io/sroshanahmad/full/KKVbGWd)
+
+[Product Landing Page](https://codepen.io/sroshanahmad/full/MWKxPvW)
+
+[Survey Form](https://codepen.io/sroshanahmad/full/vYLbWxo)
 
 

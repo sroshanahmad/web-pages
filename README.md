@@ -17,5 +17,6 @@
  
  ## JAVASCRIPT PROJECTS
  [Profile Scroller (Using Iterators & Generators)](https://codepen.io/sroshanahmad/full/gOmWgyP)
+ [Tracalorie- Your Calorie Tracker (Uses Module Pattern)](https://codepen.io/sroshanahmad/full/PopmWMz)
 
 

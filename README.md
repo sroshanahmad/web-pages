@@ -14,7 +14,8 @@
 [Product Landing Page](https://codepen.io/sroshanahmad/full/MWKxPvW)
 
 [Survey Form](https://codepen.io/sroshanahmad/full/vYLbWxo)
-
-
+ 
+ ## JAVASCRIPT PROJECTS
+ [Profile Scroller (Using Iterators & Generators)](https://codepen.io/sroshanahmad/full/gOmWgyP)
 
 

@@ -1,6 +1,6 @@
 # RESPONSIVE WEB DESIGN PROJECTS 
 
-## ONLY HTML & CSS
+## HTML & CSS
 [Health Panel](https://codepen.io/sroshanahmad/full/dyGEJbQ)
 
 [NewsGrid (Using Grid system)](https://codepen.io/sroshanahmad/project/full/XWeOOk)

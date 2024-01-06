@@ -14,8 +14,8 @@
 
 [Survey Form](https://codepen.io/sroshanahmad/full/vYLbWxo)
  
-[Profile Scroller (Using Iterators & Generators)](https://codepen.io/sroshanahmad/full/gOmWgyP)
+[Profile Scroller (Using Iterators & Generators)](https://codepen.io/sroshanahmad/full/mdWmRgJ)
  
-[Tracalorie - Your Calorie Tracker (Uses Module Pattern)](https://codepen.io/sroshanahmad/full/PopmWMz)
+[Tracalorie - Your Calorie Tracker (Uses Module Pattern)](https://codepen.io/sroshanahmad/full/wvJdgVg)
 
 

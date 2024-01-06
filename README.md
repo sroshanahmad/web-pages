@@ -3,7 +3,7 @@
 ## ONLY HTML & CSS
 [Health Panel](https://codepen.io/sroshanahmad/full/dyGEJbQ)
 
-[NewsGrid | Latest News (Using Grid system)](https://codepen.io/sroshanahmad/project/full/XWeOOk)
+[NewsGrid (Using Grid system)](https://codepen.io/sroshanahmad/project/full/XWeOOk)
 
 [Technical Documentation Site](https://codepen.io/sroshanahmad/full/wvMbPKR)
 
@@ -19,6 +19,6 @@
  
  [Profile Scroller (Using Iterators & Generators)](https://codepen.io/sroshanahmad/full/gOmWgyP)
  
- [Tracalorie- Your Calorie Tracker (Uses Module Pattern)](https://codepen.io/sroshanahmad/full/PopmWMz)
+ [Tracalorie - Your Calorie Tracker (Uses Module Pattern)](https://codepen.io/sroshanahmad/full/PopmWMz)
 
 

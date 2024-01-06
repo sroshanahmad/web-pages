@@ -1,6 +1,5 @@
 # RESPONSIVE WEB DESIGN PROJECTS 
 
-## HTML & CSS
 [Health Panel](https://codepen.io/sroshanahmad/full/dyGEJbQ)
 
 [NewsGrid (Using Grid system)](https://codepen.io/sroshanahmad/project/full/XWeOOk)
@@ -15,9 +14,8 @@
 
 [Survey Form](https://codepen.io/sroshanahmad/full/vYLbWxo)
  
- ## JAVASCRIPT PROJECTS
- [Profile Scroller (Using Iterators & Generators)](https://codepen.io/sroshanahmad/full/gOmWgyP)
+[Profile Scroller (Using Iterators & Generators)](https://codepen.io/sroshanahmad/full/gOmWgyP)
  
- [Tracalorie - Your Calorie Tracker (Uses Module Pattern)](https://codepen.io/sroshanahmad/full/PopmWMz)
+[Tracalorie - Your Calorie Tracker (Uses Module Pattern)](https://codepen.io/sroshanahmad/full/PopmWMz)
 
 
